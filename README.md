@@ -1,5 +1,5 @@
 # frgrtafes-op
-フリゲRTAフェスオープニング
+フリゲRTAフェスオープニング  
 [https://kasanezumi.github.io/frgrtafes-op/](https://kasanezumi.github.io/frgrtafes-op/)  
 
 made with RPGツクールMV  
